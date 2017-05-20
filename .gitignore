@@ -1,0 +1,15 @@
+*~
+*.o
+*.hi
+*.txt
+*.bak
+*.a
+a.*
+lib*.so
+lib*.so.*
+*.bin
+*.sb2
+GPATH
+GRTAGS
+GSYMS
+GTAGS
